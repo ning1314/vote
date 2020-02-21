@@ -5,4 +5,5 @@
 	neginx
 	springboot
 	springcloud
+	jekins
 	
